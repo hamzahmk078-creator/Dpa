@@ -1,0 +1,6 @@
+{
+  "name": "DPA Jordan",
+  "description": "دائرة الشؤون الفلسطينية - المملكة الأردنية الهاشمية (Department of Palestinian Affairs - dpa.gov.jo). البوابة الموحدة للخدمات الإلكترونية وشؤون مخيمات اللاجئين وتراخيص البناء والمكرمة الملكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DPA Jordan</string>
+    <string name="department_full_name">دائرة الشؤون الفلسطينية</string>
+    <string name="department_full_name_en">Department of Palestinian Affairs</string>
+    <string name="jordan_gov">المملكة الأردنية الهاشمية</string>
+    <string name="jordan_gov_en">Hashemite Kingdom of Jordan</string>
+</resources>
